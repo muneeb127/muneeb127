@@ -23,8 +23,8 @@ Hi there! I'm Muneeb Ahmed Khan, a passionate Software Engineer who thrives on c
 
 Feel free to explore my repositories, open issues, or contribute to any ongoing projects. Let's connect and build something amazing together!
 
-- 💼 [LinkedIn](www.linkedin.com/in/muneeb-ahmed-khan-5488a9199)
-- 📧 [Email](mailto:muneebahmed_127@hotmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/muneeb-ahmed-khan-5488a9199/)
+- 📧 Email: [muneebahmed_127@hotmail.com](mailto:muneebahmed_127@hotmail.com)
 
 Thanks for stopping by! Happy coding! 😄
 
