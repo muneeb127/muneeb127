@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 🚀
-*“The only way to do great work is to love what you do.”* – Steve Jobs
+<p align="center"><em>“The only way to do great work is to love what you do.”</em> – Steve Jobs</p>
 
 Hi there! I'm Muneeb Ahmed Khan, a passionate Software Engineer who thrives on crafting elegant solutions to complex problems. With a solid foundation in Javascript, C++, NodeJs, ReactJs, and cloud technologies, I specialize in building scalable applications and seamless user experiences.
 
@@ -24,7 +24,7 @@ Hi there! I'm Muneeb Ahmed Khan, a passionate Software Engineer who thrives on c
 Feel free to explore my repositories, open issues, or contribute to any ongoing projects. Let's connect and build something amazing together!
 
 - 💼 [LinkedIn](www.linkedin.com/in/muneeb-ahmed-khan-5488a9199)
-- [Email](muneebahmed_127@hotmail.com)
+- 📧 [Email](mailto:muneebahmed_127@hotmail.com)
 
 Thanks for stopping by! Happy coding! 😄
 
